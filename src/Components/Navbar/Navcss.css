@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.primary-heading{
+    color: white;
+    background-color:#22223b;
+    text-align: center;
+    font-size: 3rem;
+    padding: 5px 0;
+}
